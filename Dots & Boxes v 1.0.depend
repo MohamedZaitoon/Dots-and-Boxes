@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1513941127 source:c:\users\mo7am\desktop\dots & boxes v 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
